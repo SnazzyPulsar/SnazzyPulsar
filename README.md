@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SnazzyPulsar
-- 👀 I’m interested in Python, Java, Arduino IDE, HTML, CSS, C++
-- 🌱 I’m currently learning HTML, CSS, Jave
-- 💞️ I’m looking to collaborate on Arduino robotics and web development
+- 👀 I’m interested in Python, Javascript, HTML, CSS, C++, Sass, 
+- 🌱 I’m currently learning HTML, CSS, Javascript
+- 💞️ I’m looking to collaborate web and software development
 - 📫 How to reach me
 
 <!---
