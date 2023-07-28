@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SnazzyPulsar
-- 👀 I’m interested in Python, Javascript, HTML, CSS, and React to name a few ;)
+- 👀 I’m interested in Python, Javascript, HTML, CSS, and React to name a few
 - 🌱 I’m currently learning HTML, CSS, Javascript
 - 💞️ I’m looking to collaborate web and software development
 - 📫 How to reach me
