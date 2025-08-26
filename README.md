@@ -1,7 +1,6 @@
-- 👋 Hello! I’m @SnazzyPulsar, a web developer in uh, development.
-- 👀 I’m interested in Python, Javascript, HTML, CSS, and also very interested in Machine Learning
-- 🌱 I’m currently learning HTML, CSS, Javascript, and Python
-- 💞️ I’m looking to collaborate with web and software development.
+- 👋 Hello! I’m @SnazzyPulsar, Python and front-end WebdDev
+- 👀 I’m interested in Python, app development, Aduino, and IndieWeb.
+- 🌱 I’m currently learning Python and will likely learn either Rust or C# next.
 - 📫 How to reach me (to be continued).
 
 <!---
